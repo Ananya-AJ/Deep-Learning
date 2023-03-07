@@ -8,8 +8,8 @@
 5. Demonstrating advanced tensor flow primitives (2b_operations_numpy,2b_operations_tensorflow,2b_operations_pytorch)
 6. Assignment_3 
 conditions mentioned : 3 layer neural network, using einsum, non linear cubic equation are met.
-a [https://colab.research.google.com/drive/1Uam9rK-2MsB9_NtYl6mzKet8o4IFpcTI?usp=sharing]
-b [https://colab.research.google.com/drive/1Uam9rK-2MsB9_NtYl6mzKet8o4IFpcTI?usp=sharing]
-c [https://colab.research.google.com/drive/1Uam9rK-2MsB9_NtYl6mzKet8o4IFpcTI?usp=sharing]
-d [https://colab.research.google.com/drive/1Uam9rK-2MsB9_NtYl6mzKet8o4IFpcTI?usp=sharing]
-e [https://colab.research.google.com/drive/1C941vziYMJJUDjMyQnNxPz_Nudu5jYnN?usp=sharing]
+ a [https://colab.research.google.com/drive/1Uam9rK-2MsB9_NtYl6mzKet8o4IFpcTI?usp=sharing]
+ b [https://colab.research.google.com/drive/1Uam9rK-2MsB9_NtYl6mzKet8o4IFpcTI?usp=sharing]
+ c [https://colab.research.google.com/drive/1Uam9rK-2MsB9_NtYl6mzKet8o4IFpcTI?usp=sharing]
+ d [https://colab.research.google.com/drive/1Uam9rK-2MsB9_NtYl6mzKet8o4IFpcTI?usp=sharing]
+ e [https://colab.research.google.com/drive/1C941vziYMJJUDjMyQnNxPz_Nudu5jYnN?usp=sharing]
