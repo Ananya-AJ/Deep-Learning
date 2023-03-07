@@ -9,7 +9,7 @@
 6. Assignment_3 
 conditions mentioned : 3 layer neural network, using einsum, non linear cubic equation are met. 
 
- a [https://colab.research.google.com/drive/1Uam9rK-2MsB9_NtYl6mzKet8o4IFpcTI?usp=sharing] 
+ a https://colab.research.google.com/drive/1Uam9rK-2MsB9_NtYl6mzKet8o4IFpcTI?usp=sharing 
  
  b [https://colab.research.google.com/drive/1Uam9rK-2MsB9_NtYl6mzKet8o4IFpcTI?usp=sharing] 
  
