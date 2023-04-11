@@ -9,4 +9,8 @@ k_classification_video uses brush_hair videos and shoot_gun videos from hmdb51_o
 
 k_classification_timeseries consists of daily minimum temperatures in Melbourne, Australia from 1981 to 1990, uses tsaug to augment the timeseries data and evaluates the model accuracy pre and post augmentation, classification on forecasting low/high temperatures.
 
-k_classification_image 
+k_classification_image uses dog vs cat images for classification and uses ImageDataGenerator to augment the images.
+
+k_classification_tabulardata uses credit card dataset to classify default or not default. Uses tsaug for data augmentation.
+
+k_classification_
