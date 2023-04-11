@@ -13,4 +13,4 @@ k_classification_image uses dog vs cat images for classification and uses ImageD
 
 k_classification_tabulardata uses credit card dataset to classify default or not default. Uses random noise injection for data augmentation.
 
-k_classification_text uses 
+k_classification_text uses nlpaug for data augmentation on imdb dataset , augments data by replacing words with their synonyms and trains the model.
