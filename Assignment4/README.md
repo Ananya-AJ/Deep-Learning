@@ -11,6 +11,6 @@ k_classification_timeseries consists of daily minimum temperatures in Melbourne,
 
 k_classification_image uses dog vs cat images for classification and uses ImageDataGenerator to augment the images.
 
-k_classification_tabulardata uses credit card dataset to classify default or not default. Uses tsaug for data augmentation.
+k_classification_tabulardata uses credit card dataset to classify default or not default. Uses random noise injection for data augmentation.
 
-k_classification_
+k_classification_text uses 
