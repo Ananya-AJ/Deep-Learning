@@ -3,9 +3,11 @@ BabyAGI : https://colab.research.google.com/drive/1_BA3DCPMiierWf5Ma3C9nvM8tNte4
 
 AgentGPT Demo  : https://youtu.be/ObzEXVep5Ho
 
+OpenAI chat with Xcel demo : 
+
 Jarvis - HuggingGPT- Demo : https://youtu.be/a2Z-bnnjQ-s
 
-VisualGPT Demo :
+VisualGPT Demo : https://youtu.be/MpGYuQ3G-Gg
 
 Semantic kernel : https://colab.research.google.com/drive/1lxaKw1botx7t10GPqa0XEjOBl7AMJbzV#scrollTo=EFoskERCmz4k
 
