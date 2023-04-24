@@ -3,7 +3,9 @@ BabyAGI : https://colab.research.google.com/drive/1_BA3DCPMiierWf5Ma3C9nvM8tNte4
 
 AgentGPT Demo  : https://youtu.be/ObzEXVep5Ho
 
-OpenAI chat with Xcel demo : 
+OpenAI chat with Xcel demo : https://youtu.be/WQ3GbrBtW7A
+
+OpenAI chat with Xcel colab : https://colab.research.google.com/drive/1Wfj41daLBsjgaZ0Ne7jPGLh5irdDh4OF#scrollTo=ySfVsuV26KBp
 
 Jarvis - HuggingGPT- Demo : https://youtu.be/a2Z-bnnjQ-s
 
