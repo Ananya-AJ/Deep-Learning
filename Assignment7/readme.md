@@ -18,18 +18,20 @@ b) demonstrate pretrained model with transfer learning  (both efficient net and 
 
 c) Demonstrate image augmentation 
 
+d) demonstrate with state of art image models - mlp-mixer
+
 Colab URL :https://colab.research.google.com/drive/18ZuEdZ_Pgq-reAgd0Z98SU3lExtRZdxP#scrollTo=w9u2PohdIosa
 Colab name : Image Classification BiT.ipynb
 
 Colab name : Efficient_net_and_Transfer_Learning.ipynb
 Colab URL : https://colab.research.google.com/drive/1VDHmAT7vNSnALXicj0ORlj7xlGS0Ibt7
 
+colabs :
+https://colab.research.google.com/drive/1u2S1yAvz9D89Ly_OWFNpP-38_COheeob
 
-d) demonstrate with state of art image models - mlp-mixer
+https://colab.research.google.com/drive/1ceHDKw2CQWXym9b0wheocY1pxvsW2cDI
 
- Colab name :
- 
- Colab URL : 
+https://colab.research.google.com/drive/1NeRz7rpu-5hcHNAAkNbQUYdS0fNpW_aF
 
 
 
