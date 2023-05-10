@@ -9,6 +9,28 @@ https://colab.research.google.com/drive/1rs1JJVTzqc0GwqtKZgfjDbu-3CfAa5JR#scroll
 
 Part 2:
 
+Three colabs with  vision classifiers - data  - mnist, fashion mnist and cifar 10
+demonstrate for each colab :
+
+a) use simple neural network as well as lenet-5  - two architectures
+
+b) demonstrate pretrained model with transfer learning  (both efficient net and BiT):
+
+c) Demonstrate image augmentation 
+
+Colab URL :https://colab.research.google.com/drive/18ZuEdZ_Pgq-reAgd0Z98SU3lExtRZdxP#scrollTo=w9u2PohdIosa
+Colab name : Image Classification BiT.ipynb
+
+Colab name : Efficient_net_and_Transfer_Learning.ipynb
+Colab URL : https://colab.research.google.com/drive/1VDHmAT7vNSnALXicj0ORlj7xlGS0Ibt7
+
+
+d) demonstrate with state of art image models - mlp-mixer
+
+ Colab name :
+ 
+ Colab URL : 
+
 
 
 
