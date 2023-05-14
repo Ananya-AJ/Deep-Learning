@@ -5,3 +5,5 @@ Medium article link : https://medium.com/@ananya.joshi_70890/alert-adapting-lang
 
 Slide deck :https://docs.google.com/presentation/d/19hWmU4msFgtXUBbW-s9AeAad1_nU6h2YhQeGpIYCE-M/edit?pli=1#slide=id.gc6fa3c898_0_0
 
+Slide deck on slide share : https://www.slideshare.net/secret/oNOZTzjzHtK92H
+
