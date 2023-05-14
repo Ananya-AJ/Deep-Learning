@@ -1,5 +1,5 @@
 
-Video link : 
+Video link : https://drive.google.com/drive/u/0/folders/1Rb5Qf0K7q2ShDFJU8CLHBVpf0AaDlt3K
 
 Medium article link : https://medium.com/@ananya.joshi_70890/alert-adapting-language-models-to-reasoning-tasks-dd5a3dc8dc4
 
